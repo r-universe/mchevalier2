@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "crestr"]
+	path = crestr
+	url = https://github.com/mchevalier2/crestr
+	shallow = true
+	registered = true
